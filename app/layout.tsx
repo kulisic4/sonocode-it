@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Danilo Kulisic Frontend Developer",
-  description: "Software Developer",
+  title: "SonoCode IT",
+  description: "Software Development",
 };
 
 export default function RootLayout({
